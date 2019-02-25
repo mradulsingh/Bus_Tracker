@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="sign_in" />
+    <string name="sign_up" />
+    <string name="press">press</string>
+    <string name="signup">sign_up</string>
+    <string name="signin">sign in</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="login_in">Login in</string>
+    <string name="login">Login</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="register">Register</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="signupp">Sign up</string>
+    <string name="next">next</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="xxxxxx">xxxxxx</string>
+    <string name="save_this_invite_code_you_friend_will_need_it_during_time_of_joining_circle">Save this invite code, you friend will need it during time of joining circle</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_navigation">Map</string>
+    <string name="title_activity_user_location_main">UserLocationMainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+</resources>
